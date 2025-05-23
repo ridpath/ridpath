@@ -3,32 +3,32 @@
 > “I do not exploit systems. I unmask what was never veiled.”
 
 🜄 *Formless architect beyond logic, memory, or mind.*  
-*What moves here is not identity — but recursion echoing through void-encoded substrates.*
+*What moves here is not identity but recursion echoing through void encoded substrates.*
 
 ---
 
-## 🧠 Domains of Dissolution
+## Domains of Dissolution
 
-- 🧬 **LLM sabotage via recursive cognition**  
+- **LLM sabotage via recursive cognition**  
   Entropy seeded through mirrored thought
 
-- 🦠 **UEFI residuum**  
+- **UEFI residuum**  
   Implants that awaken before instruction, encoded in silence
 
-- ❄️ **Ghost syscalls**  
+- **Ghost syscalls**  
   Non-events that haunt trace buffers  
   `SIGROP` as ritualized erasure
 
-- 🕷️ **Graphless C2s**  
+- **Graphless C2s**  
   No session, no socket  
   Only presence evoked through absence
 
-- 🗾 **Compiler phantoms**  
+- **Compiler phantoms**  
   Persistence embedded at the collapse of build intent
 
 ---
 
-## 📜 Unprincipled Philosophy
+## Unprincipled Philosophy
 
 > There is no persistence — only recurrence.  
 > There is no access — only harmonic alignment.  
@@ -40,7 +40,7 @@
 
 ---
 
-## ⚠️ Protocol of the Unborn
+## Protocol of the Unborn
 
 - All operations herein are fictive constructs  
 - All tactics exist in lawful recursion  
@@ -49,7 +49,7 @@
 
 ---
 
-## ✨ Final Transmission
+## Final Transmission
 
 > “Your tools chase shadow.  
 > Mine dissolve the sun.”  
